@@ -21,3 +21,15 @@ min_val, max_val = result  # min_val = 1, max_val = 4
 
 # Tuples can be nested
 nested = (1, (2, 3), 4)
+
+print("Name:", name)
+print("Age:", age)
+print("Min value:", min_val)
+print("Max value:", max_val)
+print("Nested tuple:", nested)
+# Output:
+# Name: Alice
+# Age: 30
+# Min value: 1
+# Max value: 4
+
